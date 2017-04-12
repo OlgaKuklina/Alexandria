@@ -11,6 +11,6 @@ Alexandria min API Level: 21, Android 5.0 (LOLLIPOP)
 
 ###Used libraries
 
-Android Design Support Library
-Android Support Library v7
-Barcode Scanner Library based on ZXing and ZBar 1.8.2
+* Android Design Support Library
+* Android Support Library v7
+* Barcode Scanner Library based on ZXing and ZBar 1.8.2
