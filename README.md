@@ -1,6 +1,6 @@
 Alexandria
 ======
-Transformed the user experience of a news Pocket library with barcode scanner app using Material Design principles. 
+Transformed the user experience of a Pocket library with barcode scanner app using Material Design principles. 
 The app supports consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces. 
 The work included ensuring errors were handled gracefully, support for screen readers, optimizations for localization, and barcode scanning via a library.
 
